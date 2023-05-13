@@ -17,3 +17,16 @@ Extract forename and lastname of a person and his country of birth and save this
 Replace <lastname>, <forename> and <country> with previously extracted information stored in variables.
 
 In message box display correct message at the end of each loop.
+  
+  # How To run This Project 
+  1, Install UIpath studio on your local machine 
+  2, Find the HTTPS link from GitHub repo 
+  3, Open your uipath studio and Find the Team menu from the Left corner menu. 
+  4, Choose Clone Repository 
+  5, Give Repository URL which you copied from GitHub and Pest it 
+  6, Make a one folder where you want to save that project 
+  7, Give the folder location on the Check out directory 
+  8, Click Open 
+  You will clone the repo 
+  # Enjoy coding 
+  
